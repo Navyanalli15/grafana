@@ -1,0 +1,4 @@
+﻿Time (absolute),Level,Robot name,Process,Hostname,Host Identity,Message
+2024-11-25 07:20:12.746,Info,robotaccount-unattended,Qz,QZ-LT-R-CTK-161,QZ-LT-R-CTK-161\Navya,Qz execution started
+2024-11-25 07:21:02.051,Error,robotaccount-unattended,Qz,QZ-LT-R-CTK-161,QZ-LT-R-CTK-161\Navya,Read Range Workbook: The workbook does not exist
+2024-11-25 07:21:02.684,Info,robotaccount-unattended,Qz,QZ-LT-R-CTK-161,QZ-LT-R-CTK-161\Navya,Qz execution ended
