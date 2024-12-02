@@ -1,0 +1,434 @@
+[
+  {
+    "Time (absolute)": "2024-11-25 06:48:11.873",
+    "Level": "Info",
+    "Robot name": "robotaccount-unattended",
+    "Process": "Qualizeal.website_demo",
+    "Hostname": "QZ-LT-R-CTK-161",
+    "Host Identity": "QZ-LT-R-CTK-161\\Navya",
+    "Message": "Qualizeal.website_demo execution started"
+  },
+  {
+    "Time (absolute)": "2024-11-25 06:49:53.602",
+    "Level": "Error",
+    "Robot name": "robotaccount-unattended",
+    "Process": "Qualizeal.website_demo",
+    "Hostname": "QZ-LT-R-CTK-161",
+    "Host Identity": "QZ-LT-R-CTK-161\\Navya",
+    "Message": "Click 'Insights': Timeout reached."
+  },
+  {
+    "Time (absolute)": "2024-11-25 06:49:55.911",
+    "Level": "Info",
+    "Robot name": "robotaccount-unattended",
+    "Process": "Qualizeal.website_demo",
+    "Hostname": "QZ-LT-R-CTK-161",
+    "Host Identity": "QZ-LT-R-CTK-161\\Navya",
+    "Message": "Qualizeal.website_demo execution ended"
+  },
+  {
+    "Time (absolute)": "2024-11-25 06:50:12.163",
+    "Level": "Info",
+    "Robot name": "robotaccount-unattended",
+    "Process": "Qualizeal.website_demo",
+    "Hostname": "QZ-LT-R-CTK-161",
+    "Host Identity": "QZ-LT-R-CTK-161\\Navya",
+    "Message": "Qualizeal.website_demo execution started"
+  },
+  {
+    "Time (absolute)": "2024-11-25 06:51:10.898",
+    "Level": "Error",
+    "Robot name": "robotaccount-unattended",
+    "Process": "Qualizeal.website_demo",
+    "Hostname": "QZ-LT-R-CTK-161",
+    "Host Identity": "QZ-LT-R-CTK-161\\Navya",
+    "Message": "Read Range Workbook: The workbook does not exist"
+  },
+  {
+    "Time (absolute)": "2024-11-25 06:51:11.403",
+    "Level": "Info",
+    "Robot name": "robotaccount-unattended",
+    "Process": "Qualizeal.website_demo",
+    "Hostname": "QZ-LT-R-CTK-161",
+    "Host Identity": "QZ-LT-R-CTK-161\\Navya",
+    "Message": "Qualizeal.website_demo execution ended"
+  },
+  {
+    "Time (absolute)": "2024-11-25 06:51:12.961",
+    "Level": "Info",
+    "Robot name": "robotaccount-unattended",
+    "Process": "Qualizeal.website_demo",
+    "Hostname": "QZ-LT-R-CTK-161",
+    "Host Identity": "QZ-LT-R-CTK-161\\Navya",
+    "Message": "Qualizeal.website_demo execution started"
+  },
+  {
+    "Time (absolute)": "2024-11-25 06:51:50.813",
+    "Level": "Error",
+    "Robot name": "robotaccount-unattended",
+    "Process": "Qualizeal.website_demo",
+    "Hostname": "QZ-LT-R-CTK-161",
+    "Host Identity": "QZ-LT-R-CTK-161\\Navya",
+    "Message": "Read Range Workbook: The workbook does not exist"
+  },
+  {
+    "Time (absolute)": "2024-11-25 06:51:51.284",
+    "Level": "Info",
+    "Robot name": "robotaccount-unattended",
+    "Process": "Qualizeal.website_demo",
+    "Hostname": "QZ-LT-R-CTK-161",
+    "Host Identity": "QZ-LT-R-CTK-161\\Navya",
+    "Message": "Qualizeal.website_demo execution ended"
+  },
+  {
+    "Time (absolute)": "2024-11-25 06:52:13.756",
+    "Level": "Info",
+    "Robot name": "robotaccount-unattended",
+    "Process": "Qualizeal.website_demo",
+    "Hostname": "QZ-LT-R-CTK-161",
+    "Host Identity": "QZ-LT-R-CTK-161\\Navya",
+    "Message": "Qualizeal.website_demo execution started"
+  },
+  {
+    "Time (absolute)": "2024-11-25 06:52:52.019",
+    "Level": "Error",
+    "Robot name": "robotaccount-unattended",
+    "Process": "Qualizeal.website_demo",
+    "Hostname": "QZ-LT-R-CTK-161",
+    "Host Identity": "QZ-LT-R-CTK-161\\Navya",
+    "Message": "Read Range Workbook: The workbook does not exist"
+  },
+  {
+    "Time (absolute)": "2024-11-25 06:52:52.905",
+    "Level": "Info",
+    "Robot name": "robotaccount-unattended",
+    "Process": "Qualizeal.website_demo",
+    "Hostname": "QZ-LT-R-CTK-161",
+    "Host Identity": "QZ-LT-R-CTK-161\\Navya",
+    "Message": "Qualizeal.website_demo execution ended"
+  },
+  {
+    "Time (absolute)": "2024-11-25 06:53:14.325",
+    "Level": "Info",
+    "Robot name": "robotaccount-unattended",
+    "Process": "Qualizeal.website_demo",
+    "Hostname": "QZ-LT-R-CTK-161",
+    "Host Identity": "QZ-LT-R-CTK-161\\Navya",
+    "Message": "Qualizeal.website_demo execution started"
+  },
+  {
+    "Time (absolute)": "2024-11-25 06:53:57.013",
+    "Level": "Error",
+    "Robot name": "robotaccount-unattended",
+    "Process": "Qualizeal.website_demo",
+    "Hostname": "QZ-LT-R-CTK-161",
+    "Host Identity": "QZ-LT-R-CTK-161\\Navya",
+    "Message": "Get Text 'Latest': Multiple similar matches found.\n\nCould not uniquely identify the user-interface element for this action.\nEdit the element, run Validation, and add anchors in order to ensure the element is uniquely identified."
+  },
+  {
+    "Time (absolute)": "2024-11-25 06:53:59.641",
+    "Level": "Info",
+    "Robot name": "robotaccount-unattended",
+    "Process": "Qualizeal.website_demo",
+    "Hostname": "QZ-LT-R-CTK-161",
+    "Host Identity": "QZ-LT-R-CTK-161\\Navya",
+    "Message": "Qualizeal.website_demo execution ended"
+  },
+  {
+    "Time (absolute)": "2024-11-25 07:03:36.696",
+    "Level": "Info",
+    "Robot name": "robotaccount-unattended",
+    "Process": "Qualizeal.website_demo",
+    "Hostname": "QZ-LT-R-CTK-161",
+    "Host Identity": "QZ-LT-R-CTK-161\\Navya",
+    "Message": "Qualizeal.website_demo execution started"
+  },
+  {
+    "Time (absolute)": "2024-11-25 07:04:18.437",
+    "Level": "Error",
+    "Robot name": "robotaccount-unattended",
+    "Process": "Qualizeal.website_demo",
+    "Hostname": "QZ-LT-R-CTK-161",
+    "Host Identity": "QZ-LT-R-CTK-161\\Navya",
+    "Message": "Get Text 'Latest': Multiple similar matches found.\n\nCould not uniquely identify the user-interface element for this action.\nEdit the element, run Validation, and add anchors in order to ensure the element is uniquely identified."
+  },
+  {
+    "Time (absolute)": "2024-11-25 07:04:20.629",
+    "Level": "Info",
+    "Robot name": "robotaccount-unattended",
+    "Process": "Qualizeal.website_demo",
+    "Hostname": "QZ-LT-R-CTK-161",
+    "Host Identity": "QZ-LT-R-CTK-161\\Navya",
+    "Message": "Qualizeal.website_demo execution ended"
+  },
+  {
+    "Time (absolute)": "2024-11-25 07:05:05.054",
+    "Level": "Info",
+    "Robot name": "robotaccount-unattended",
+    "Process": "Qualizeal.website_demo",
+    "Hostname": "QZ-LT-R-CTK-161",
+    "Host Identity": "QZ-LT-R-CTK-161\\Navya",
+    "Message": "Qualizeal.website_demo execution started"
+  },
+  {
+    "Time (absolute)": "2024-11-25 07:06:13.357",
+    "Level": "Error",
+    "Robot name": "robotaccount-unattended",
+    "Process": "Qualizeal.website_demo",
+    "Hostname": "QZ-LT-R-CTK-161",
+    "Host Identity": "QZ-LT-R-CTK-161\\Navya",
+    "Message": "Get Text 'Latest': The UI element could not be located using the configured Fuzzy selector for Target or Anchor.\n\n 'Anchor 1' search failed for selector:\n\t<webctrl tag='H3' type='' class='latest-tag' aaname='Latest' check:innerText='Latest' />\nThese are the closest selector matches found:\n\t[50%] <webctrl type='' parentid='content' tag='H3' class='elementor-heading-title elementor-size-default' aaname='Ready to accelerate your business?' check:innerText='Ready to accelerate your business?' />"
+  },
+  {
+    "Time (absolute)": "2024-11-25 07:06:15.912",
+    "Level": "Info",
+    "Robot name": "robotaccount-unattended",
+    "Process": "Qualizeal.website_demo",
+    "Hostname": "QZ-LT-R-CTK-161",
+    "Host Identity": "QZ-LT-R-CTK-161\\Navya",
+    "Message": "Qualizeal.website_demo execution ended"
+  },
+  {
+    "Time (absolute)": "2024-11-25 07:18:05.300",
+    "Level": "Info",
+    "Robot name": "robotaccount-unattended",
+    "Process": "cogmento_LoginAndLogout",
+    "Hostname": "QZ-LT-R-CTK-161",
+    "Host Identity": "QZ-LT-R-CTK-161\\Navya",
+    "Message": "cogmento_LoginAndLogout execution started"
+  },
+  {
+    "Time (absolute)": "2024-11-25 07:18:45.024",
+    "Level": "Error",
+    "Robot name": "robotaccount-unattended",
+    "Process": "cogmento_LoginAndLogout",
+    "Hostname": "QZ-LT-R-CTK-161",
+    "Host Identity": "QZ-LT-R-CTK-161\\Navya",
+    "Message": "Click 'Log In': The UI element could not be located using the configured Fuzzy selector for Target or Anchor.\n\n 'Target' search failed for selector:\n\t<webctrl aaname='Log In' tag='A' type='' class='btn btn-primary btn-xs-2 btn-shadow btn-rect btn-icon btn-icon-left' check:innerText='LOG IN' />\nThese are the closest selector matches found:\n\t[81%] <webctrl aaname='Login' tag='A' type='' class='MuiButtonBase-root MuiButton-root MuiButton-outlined MuiButton-outlinedPrimary MuiButton-sizeLarge MuiButton-outlinedSizeLarge MuiButton-colorPrimary MuiButton-root MuiButton-outlined MuiButton-outlinedPrimary MuiButton-sizeLarge MuiButton-outlinedSizeLarge MuiButton-colorPrimary mui-1je003g' check:innerText='LOGIN' />\n\t[58%] <webctrl aaname='Sign Up' type='' href='https://api.cogmento.com/register?lang=en' tag='A' class='MuiButtonBase-root MuiButton-root MuiButton-contained MuiButton-containedPrimary MuiButton-sizeLarge MuiButton-containedSizeLarge MuiButton-colorPrimary MuiButton-root MuiButton-contained MuiButton-containedPrimary MuiButton-sizeLarge MuiButton-containedSizeLarge MuiButton-colorPrimary mui-5gpgj4' check:innerText='SIGN UP' />\n\t[58%] <webctrl aaname='Sign Up' tag='A' type='' class='MuiButtonBase-root MuiButton-root MuiButton-contained MuiButton-containedPrimary MuiButton-sizeLarge MuiButton-containedSizeLarge MuiButton-colorPrimary MuiButton-root MuiButton-contained MuiButton-containedPrimary MuiButton-sizeLarge MuiButton-containedSizeLarge MuiButton-colorPrimary mui-1cxo7uq' check:innerText='SIGN UP' />"
+  },
+  {
+    "Time (absolute)": "2024-11-25 07:18:45.739",
+    "Level": "Info",
+    "Robot name": "robotaccount-unattended",
+    "Process": "cogmento_LoginAndLogout",
+    "Hostname": "QZ-LT-R-CTK-161",
+    "Host Identity": "QZ-LT-R-CTK-161\\Navya",
+    "Message": "cogmento_LoginAndLogout execution ended"
+  },
+  {
+    "Time (absolute)": "2024-11-25 07:19:08.579",
+    "Level": "Info",
+    "Robot name": "robotaccount-unattended",
+    "Process": "cogmento_LoginAndLogout",
+    "Hostname": "QZ-LT-R-CTK-161",
+    "Host Identity": "QZ-LT-R-CTK-161\\Navya",
+    "Message": "cogmento_LoginAndLogout execution started"
+  },
+  {
+    "Time (absolute)": "2024-11-25 07:19:47.297",
+    "Level": "Error",
+    "Robot name": "robotaccount-unattended",
+    "Process": "cogmento_LoginAndLogout",
+    "Hostname": "QZ-LT-R-CTK-161",
+    "Host Identity": "QZ-LT-R-CTK-161\\Navya",
+    "Message": "Click 'Log In': The UI element could not be located using the configured Fuzzy selector for Target or Anchor.\n\n 'Target' search failed for selector:\n\t<webctrl aaname='Log In' tag='A' type='' class='btn btn-primary btn-xs-2 btn-shadow btn-rect btn-icon btn-icon-left' check:innerText='LOG IN' />\nThese are the closest selector matches found:\n\t[81%] <webctrl aaname='Login' tag='A' type='' class='MuiButtonBase-root MuiButton-root MuiButton-outlined MuiButton-outlinedPrimary MuiButton-sizeLarge MuiButton-outlinedSizeLarge MuiButton-colorPrimary MuiButton-root MuiButton-outlined MuiButton-outlinedPrimary MuiButton-sizeLarge MuiButton-outlinedSizeLarge MuiButton-colorPrimary mui-1je003g' check:innerText='LOGIN' />\n\t[58%] <webctrl aaname='Sign Up' type='' href='https://api.cogmento.com/register?lang=en' tag='A' class='MuiButtonBase-root MuiButton-root MuiButton-contained MuiButton-containedPrimary MuiButton-sizeLarge MuiButton-containedSizeLarge MuiButton-colorPrimary MuiButton-root MuiButton-contained MuiButton-containedPrimary MuiButton-sizeLarge MuiButton-containedSizeLarge MuiButton-colorPrimary mui-5gpgj4' check:innerText='SIGN UP' />\n\t[58%] <webctrl aaname='Sign Up' tag='A' type='' class='MuiButtonBase-root MuiButton-root MuiButton-contained MuiButton-containedPrimary MuiButton-sizeLarge MuiButton-containedSizeLarge MuiButton-colorPrimary MuiButton-root MuiButton-contained MuiButton-containedPrimary MuiButton-sizeLarge MuiButton-containedSizeLarge MuiButton-colorPrimary mui-1cxo7uq' check:innerText='SIGN UP' />"
+  },
+  {
+    "Time (absolute)": "2024-11-25 07:19:48.115",
+    "Level": "Info",
+    "Robot name": "robotaccount-unattended",
+    "Process": "cogmento_LoginAndLogout",
+    "Hostname": "QZ-LT-R-CTK-161",
+    "Host Identity": "QZ-LT-R-CTK-161\\Navya",
+    "Message": "cogmento_LoginAndLogout execution ended"
+  },
+  {
+    "Time (absolute)": "2024-11-25 07:20:12.746",
+    "Level": "Info",
+    "Robot name": "robotaccount-unattended",
+    "Process": "Qz",
+    "Hostname": "QZ-LT-R-CTK-161",
+    "Host Identity": "QZ-LT-R-CTK-161\\Navya",
+    "Message": "Qz execution started"
+  },
+  {
+    "Time (absolute)": "2024-11-25 07:21:02.051",
+    "Level": "Error",
+    "Robot name": "robotaccount-unattended",
+    "Process": "Qz",
+    "Hostname": "QZ-LT-R-CTK-161",
+    "Host Identity": "QZ-LT-R-CTK-161\\Navya",
+    "Message": "Read Range Workbook: The workbook does not exist"
+  },
+  {
+    "Time (absolute)": "2024-11-25 07:21:02.684",
+    "Level": "Info",
+    "Robot name": "robotaccount-unattended",
+    "Process": "Qz",
+    "Hostname": "QZ-LT-R-CTK-161",
+    "Host Identity": "QZ-LT-R-CTK-161\\Navya",
+    "Message": "Qz execution ended"
+  },
+  {
+    "Time (absolute)": "2024-11-25 08:25:38.950",
+    "Level": "Info",
+    "Robot name": "robotaccount-unattended",
+    "Process": "Grafana",
+    "Hostname": "QZ-LT-R-CTK-161",
+    "Host Identity": "QZ-LT-R-CTK-161\\Navya",
+    "Message": "Grafana execution started"
+  },
+  {
+    "Time (absolute)": "2024-11-25 08:25:38.998",
+    "Level": "Info",
+    "Robot name": "robotaccount-unattended",
+    "Process": "Grafana",
+    "Hostname": "QZ-LT-R-CTK-161",
+    "Host Identity": "QZ-LT-R-CTK-161\\Navya",
+    "Message": "Bot Started"
+  },
+  {
+    "Time (absolute)": "2024-11-25 08:25:39.000",
+    "Level": "Info",
+    "Robot name": "robotaccount-unattended",
+    "Process": "Grafana",
+    "Hostname": "QZ-LT-R-CTK-161",
+    "Host Identity": "QZ-LT-R-CTK-161\\Navya",
+    "Message": "processing"
+  },
+  {
+    "Time (absolute)": "2024-11-25 08:25:41.262",
+    "Level": "Info",
+    "Robot name": "robotaccount-unattended",
+    "Process": "Grafana",
+    "Hostname": "QZ-LT-R-CTK-161",
+    "Host Identity": "QZ-LT-R-CTK-161\\Navya",
+    "Message": "Executed"
+  },
+  {
+    "Time (absolute)": "2024-11-25 08:25:41.263",
+    "Level": "Info",
+    "Robot name": "robotaccount-unattended",
+    "Process": "Grafana",
+    "Hostname": "QZ-LT-R-CTK-161",
+    "Host Identity": "QZ-LT-R-CTK-161\\Navya",
+    "Message": "End"
+  },
+  {
+    "Time (absolute)": "2024-11-25 08:25:44.239",
+    "Level": "Info",
+    "Robot name": "robotaccount-unattended",
+    "Process": "Grafana",
+    "Hostname": "QZ-LT-R-CTK-161",
+    "Host Identity": "QZ-LT-R-CTK-161\\Navya",
+    "Message": "Grafana execution ended"
+  },
+  {
+    "Time (absolute)": "2024-11-25 08:26:16.536",
+    "Level": "Info",
+    "Robot name": "robotaccount-unattended",
+    "Process": "Grafana",
+    "Hostname": "QZ-LT-R-CTK-161",
+    "Host Identity": "QZ-LT-R-CTK-161\\Navya",
+    "Message": "Grafana execution started"
+  },
+  {
+    "Time (absolute)": "2024-11-25 08:26:16.573",
+    "Level": "Info",
+    "Robot name": "robotaccount-unattended",
+    "Process": "Grafana",
+    "Hostname": "QZ-LT-R-CTK-161",
+    "Host Identity": "QZ-LT-R-CTK-161\\Navya",
+    "Message": "Bot Started"
+  },
+  {
+    "Time (absolute)": "2024-11-25 08:26:16.575",
+    "Level": "Info",
+    "Robot name": "robotaccount-unattended",
+    "Process": "Grafana",
+    "Hostname": "QZ-LT-R-CTK-161",
+    "Host Identity": "QZ-LT-R-CTK-161\\Navya",
+    "Message": "processing"
+  },
+  {
+    "Time (absolute)": "2024-11-25 08:26:19.797",
+    "Level": "Info",
+    "Robot name": "robotaccount-unattended",
+    "Process": "Grafana",
+    "Hostname": "QZ-LT-R-CTK-161",
+    "Host Identity": "QZ-LT-R-CTK-161\\Navya",
+    "Message": "Executed"
+  },
+  {
+    "Time (absolute)": "2024-11-25 08:26:19.798",
+    "Level": "Info",
+    "Robot name": "robotaccount-unattended",
+    "Process": "Grafana",
+    "Hostname": "QZ-LT-R-CTK-161",
+    "Host Identity": "QZ-LT-R-CTK-161\\Navya",
+    "Message": "End"
+  },
+  {
+    "Time (absolute)": "2024-11-25 08:26:22.749",
+    "Level": "Info",
+    "Robot name": "robotaccount-unattended",
+    "Process": "Grafana",
+    "Hostname": "QZ-LT-R-CTK-161",
+    "Host Identity": "QZ-LT-R-CTK-161\\Navya",
+    "Message": "Grafana execution ended"
+  },
+  {
+    "Time (absolute)": "2024-11-26 05:23:55.624",
+    "Level": "Info",
+    "Robot name": "robotaccount-unattended",
+    "Process": "Grafana",
+    "Hostname": "QZ-LT-R-CTK-161",
+    "Host Identity": "QZ-LT-R-CTK-161\\Navya",
+    "Message": "Grafana execution started"
+  },
+  {
+    "Time (absolute)": "2024-11-26 05:23:55.650",
+    "Level": "Info",
+    "Robot name": "robotaccount-unattended",
+    "Process": "Grafana",
+    "Hostname": "QZ-LT-R-CTK-161",
+    "Host Identity": "QZ-LT-R-CTK-161\\Navya",
+    "Message": "Bot Started"
+  },
+  {
+    "Time (absolute)": "2024-11-26 05:23:55.652",
+    "Level": "Info",
+    "Robot name": "robotaccount-unattended",
+    "Process": "Grafana",
+    "Hostname": "QZ-LT-R-CTK-161",
+    "Host Identity": "QZ-LT-R-CTK-161\\Navya",
+    "Message": "processing"
+  },
+  {
+    "Time (absolute)": "2024-11-26 05:24:44.370",
+    "Level": "Info",
+    "Robot name": "robotaccount-unattended",
+    "Process": "Grafana",
+    "Hostname": "QZ-LT-R-CTK-161",
+    "Host Identity": "QZ-LT-R-CTK-161\\Navya",
+    "Message": "Executed"
+  },
+  {
+    "Time (absolute)": "2024-11-26 05:24:44.373",
+    "Level": "Info",
+    "Robot name": "robotaccount-unattended",
+    "Process": "Grafana",
+    "Hostname": "QZ-LT-R-CTK-161",
+    "Host Identity": "QZ-LT-R-CTK-161\\Navya",
+    "Message": "End"
+  },
+  {
+    "Time (absolute)": "2024-11-26 05:24:48.053",
+    "Level": "Info",
+    "Robot name": "robotaccount-unattended",
+    "Process": "Grafana",
+    "Hostname": "QZ-LT-R-CTK-161",
+    "Host Identity": "QZ-LT-R-CTK-161\\Navya",
+    "Message": "Grafana execution ended"
+  }
+]
