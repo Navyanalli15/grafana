@@ -1,0 +1,77 @@
+Time (absolute),Level,Robot name,Process,Hostname,Host Identity,Message
+48:11.9,Info,robotaccount-unattended,Qualizeal.website_demo,QZ-LT-R-CTK-161,QZ-LT-R-CTK-161\Navya,Qualizeal.website_demo execution started
+49:53.6,Error,robotaccount-unattended,Qualizeal.website_demo,QZ-LT-R-CTK-161,QZ-LT-R-CTK-161\Navya,Click 'Insights': Timeout reached.
+49:55.9,Info,robotaccount-unattended,Qualizeal.website_demo,QZ-LT-R-CTK-161,QZ-LT-R-CTK-161\Navya,Qualizeal.website_demo execution ended
+50:12.2,Info,robotaccount-unattended,Qualizeal.website_demo,QZ-LT-R-CTK-161,QZ-LT-R-CTK-161\Navya,Qualizeal.website_demo execution started
+51:10.9,Error,robotaccount-unattended,Qualizeal.website_demo,QZ-LT-R-CTK-161,QZ-LT-R-CTK-161\Navya,Read Range Workbook: The workbook does not exist
+51:11.4,Info,robotaccount-unattended,Qualizeal.website_demo,QZ-LT-R-CTK-161,QZ-LT-R-CTK-161\Navya,Qualizeal.website_demo execution ended
+51:13.0,Info,robotaccount-unattended,Qualizeal.website_demo,QZ-LT-R-CTK-161,QZ-LT-R-CTK-161\Navya,Qualizeal.website_demo execution started
+51:50.8,Error,robotaccount-unattended,Qualizeal.website_demo,QZ-LT-R-CTK-161,QZ-LT-R-CTK-161\Navya,Read Range Workbook: The workbook does not exist
+51:51.3,Info,robotaccount-unattended,Qualizeal.website_demo,QZ-LT-R-CTK-161,QZ-LT-R-CTK-161\Navya,Qualizeal.website_demo execution ended
+52:13.8,Info,robotaccount-unattended,Qualizeal.website_demo,QZ-LT-R-CTK-161,QZ-LT-R-CTK-161\Navya,Qualizeal.website_demo execution started
+52:52.0,Error,robotaccount-unattended,Qualizeal.website_demo,QZ-LT-R-CTK-161,QZ-LT-R-CTK-161\Navya,Read Range Workbook: The workbook does not exist
+52:52.9,Info,robotaccount-unattended,Qualizeal.website_demo,QZ-LT-R-CTK-161,QZ-LT-R-CTK-161\Navya,Qualizeal.website_demo execution ended
+53:14.3,Info,robotaccount-unattended,Qualizeal.website_demo,QZ-LT-R-CTK-161,QZ-LT-R-CTK-161\Navya,Qualizeal.website_demo execution started
+53:57.0,Error,robotaccount-unattended,Qualizeal.website_demo,QZ-LT-R-CTK-161,QZ-LT-R-CTK-161\Navya,"Get Text 'Latest': Multiple similar matches found.
+
+Could not uniquely identify the user-interface element for this action.
+Edit the element, run Validation, and add anchors in order to ensure the element is uniquely identified."
+53:59.6,Info,robotaccount-unattended,Qualizeal.website_demo,QZ-LT-R-CTK-161,QZ-LT-R-CTK-161\Navya,Qualizeal.website_demo execution ended
+03:36.7,Info,robotaccount-unattended,Qualizeal.website_demo,QZ-LT-R-CTK-161,QZ-LT-R-CTK-161\Navya,Qualizeal.website_demo execution started
+04:18.4,Error,robotaccount-unattended,Qualizeal.website_demo,QZ-LT-R-CTK-161,QZ-LT-R-CTK-161\Navya,"Get Text 'Latest': Multiple similar matches found.
+
+Could not uniquely identify the user-interface element for this action.
+Edit the element, run Validation, and add anchors in order to ensure the element is uniquely identified."
+04:20.6,Info,robotaccount-unattended,Qualizeal.website_demo,QZ-LT-R-CTK-161,QZ-LT-R-CTK-161\Navya,Qualizeal.website_demo execution ended
+05:05.1,Info,robotaccount-unattended,Qualizeal.website_demo,QZ-LT-R-CTK-161,QZ-LT-R-CTK-161\Navya,Qualizeal.website_demo execution started
+06:13.4,Error,robotaccount-unattended,Qualizeal.website_demo,QZ-LT-R-CTK-161,QZ-LT-R-CTK-161\Navya,"Get Text 'Latest': The UI element could not be located using the configured Fuzzy selector for Target or Anchor.
+
+ 'Anchor 1' search failed for selector:
+	<webctrl tag='H3' type='' class='latest-tag' aaname='Latest' check:innerText='Latest' />
+These are the closest selector matches found:
+	[50%] <webctrl type='' parentid='content' tag='H3' class='elementor-heading-title elementor-size-default' aaname='Ready to accelerate your business?' check:innerText='Ready to accelerate your business?' />
+"
+06:15.9,Info,robotaccount-unattended,Qualizeal.website_demo,QZ-LT-R-CTK-161,QZ-LT-R-CTK-161\Navya,Qualizeal.website_demo execution ended
+18:05.3,Info,robotaccount-unattended,cogmento_LoginAndLogout,QZ-LT-R-CTK-161,QZ-LT-R-CTK-161\Navya,cogmento_LoginAndLogout execution started
+18:45.0,Error,robotaccount-unattended,cogmento_LoginAndLogout,QZ-LT-R-CTK-161,QZ-LT-R-CTK-161\Navya,"Click 'Log In': The UI element could not be located using the configured Fuzzy selector for Target or Anchor.
+
+ 'Target' search failed for selector:
+	<webctrl aaname='Log In' tag='A' type='' class='btn btn-primary btn-xs-2 btn-shadow btn-rect btn-icon btn-icon-left' check:innerText='LOG IN' />
+These are the closest selector matches found:
+	[81%] <webctrl aaname='Login' tag='A' type='' class='MuiButtonBase-root MuiButton-root MuiButton-outlined MuiButton-outlinedPrimary MuiButton-sizeLarge MuiButton-outlinedSizeLarge MuiButton-colorPrimary MuiButton-root MuiButton-outlined MuiButton-outlinedPrimary MuiButton-sizeLarge MuiButton-outlinedSizeLarge MuiButton-colorPrimary mui-1je003g' check:innerText='LOGIN' />
+	[58%] <webctrl aaname='Sign Up' type='' href='https://api.cogmento.com/register?lang=en' tag='A' class='MuiButtonBase-root MuiButton-root MuiButton-contained MuiButton-containedPrimary MuiButton-sizeLarge MuiButton-containedSizeLarge MuiButton-colorPrimary MuiButton-root MuiButton-contained MuiButton-containedPrimary MuiButton-sizeLarge MuiButton-containedSizeLarge MuiButton-colorPrimary mui-5gpgj4' check:innerText='SIGN UP' />
+	[58%] <webctrl aaname='Sign Up' tag='A' type='' class='MuiButtonBase-root MuiButton-root MuiButton-contained MuiButton-containedPrimary MuiButton-sizeLarge MuiButton-containedSizeLarge MuiButton-colorPrimary MuiButton-root MuiButton-contained MuiButton-containedPrimary MuiButton-sizeLarge MuiButton-containedSizeLarge MuiButton-colorPrimary mui-1cxo7uq' check:innerText='SIGN UP' />
+"
+18:45.7,Info,robotaccount-unattended,cogmento_LoginAndLogout,QZ-LT-R-CTK-161,QZ-LT-R-CTK-161\Navya,cogmento_LoginAndLogout execution ended
+19:08.6,Info,robotaccount-unattended,cogmento_LoginAndLogout,QZ-LT-R-CTK-161,QZ-LT-R-CTK-161\Navya,cogmento_LoginAndLogout execution started
+19:47.3,Error,robotaccount-unattended,cogmento_LoginAndLogout,QZ-LT-R-CTK-161,QZ-LT-R-CTK-161\Navya,"Click 'Log In': The UI element could not be located using the configured Fuzzy selector for Target or Anchor.
+
+ 'Target' search failed for selector:
+	<webctrl aaname='Log In' tag='A' type='' class='btn btn-primary btn-xs-2 btn-shadow btn-rect btn-icon btn-icon-left' check:innerText='LOG IN' />
+These are the closest selector matches found:
+	[81%] <webctrl aaname='Login' tag='A' type='' class='MuiButtonBase-root MuiButton-root MuiButton-outlined MuiButton-outlinedPrimary MuiButton-sizeLarge MuiButton-outlinedSizeLarge MuiButton-colorPrimary MuiButton-root MuiButton-outlined MuiButton-outlinedPrimary MuiButton-sizeLarge MuiButton-outlinedSizeLarge MuiButton-colorPrimary mui-1je003g' check:innerText='LOGIN' />
+	[58%] <webctrl aaname='Sign Up' type='' href='https://api.cogmento.com/register?lang=en' tag='A' class='MuiButtonBase-root MuiButton-root MuiButton-contained MuiButton-containedPrimary MuiButton-sizeLarge MuiButton-containedSizeLarge MuiButton-colorPrimary MuiButton-root MuiButton-contained MuiButton-containedPrimary MuiButton-sizeLarge MuiButton-containedSizeLarge MuiButton-colorPrimary mui-5gpgj4' check:innerText='SIGN UP' />
+	[58%] <webctrl aaname='Sign Up' tag='A' type='' class='MuiButtonBase-root MuiButton-root MuiButton-contained MuiButton-containedPrimary MuiButton-sizeLarge MuiButton-containedSizeLarge MuiButton-colorPrimary MuiButton-root MuiButton-contained MuiButton-containedPrimary MuiButton-sizeLarge MuiButton-containedSizeLarge MuiButton-colorPrimary mui-1cxo7uq' check:innerText='SIGN UP' />
+"
+19:48.1,Info,robotaccount-unattended,cogmento_LoginAndLogout,QZ-LT-R-CTK-161,QZ-LT-R-CTK-161\Navya,cogmento_LoginAndLogout execution ended
+20:12.7,Info,robotaccount-unattended,Qz,QZ-LT-R-CTK-161,QZ-LT-R-CTK-161\Navya,Qz execution started
+21:02.1,Error,robotaccount-unattended,Qz,QZ-LT-R-CTK-161,QZ-LT-R-CTK-161\Navya,Read Range Workbook: The workbook does not exist
+21:02.7,Info,robotaccount-unattended,Qz,QZ-LT-R-CTK-161,QZ-LT-R-CTK-161\Navya,Qz execution ended
+25:38.9,Info,robotaccount-unattended,Grafana,QZ-LT-R-CTK-161,QZ-LT-R-CTK-161\Navya,Grafana execution started
+25:39.0,Info,robotaccount-unattended,Grafana,QZ-LT-R-CTK-161,QZ-LT-R-CTK-161\Navya,Bot Started
+25:39.0,Info,robotaccount-unattended,Grafana,QZ-LT-R-CTK-161,QZ-LT-R-CTK-161\Navya,processing
+25:41.3,Info,robotaccount-unattended,Grafana,QZ-LT-R-CTK-161,QZ-LT-R-CTK-161\Navya,Executed
+25:41.3,Info,robotaccount-unattended,Grafana,QZ-LT-R-CTK-161,QZ-LT-R-CTK-161\Navya,End
+25:44.2,Info,robotaccount-unattended,Grafana,QZ-LT-R-CTK-161,QZ-LT-R-CTK-161\Navya,Grafana execution ended
+26:16.5,Info,robotaccount-unattended,Grafana,QZ-LT-R-CTK-161,QZ-LT-R-CTK-161\Navya,Grafana execution started
+26:16.6,Info,robotaccount-unattended,Grafana,QZ-LT-R-CTK-161,QZ-LT-R-CTK-161\Navya,Bot Started
+26:16.6,Info,robotaccount-unattended,Grafana,QZ-LT-R-CTK-161,QZ-LT-R-CTK-161\Navya,processing
+26:19.8,Info,robotaccount-unattended,Grafana,QZ-LT-R-CTK-161,QZ-LT-R-CTK-161\Navya,Executed
+26:19.8,Info,robotaccount-unattended,Grafana,QZ-LT-R-CTK-161,QZ-LT-R-CTK-161\Navya,End
+26:22.7,Info,robotaccount-unattended,Grafana,QZ-LT-R-CTK-161,QZ-LT-R-CTK-161\Navya,Grafana execution ended
+23:55.6,Info,robotaccount-unattended,Grafana,QZ-LT-R-CTK-161,QZ-LT-R-CTK-161\Navya,Grafana execution started
+23:55.6,Info,robotaccount-unattended,Grafana,QZ-LT-R-CTK-161,QZ-LT-R-CTK-161\Navya,Bot Started
+23:55.7,Info,robotaccount-unattended,Grafana,QZ-LT-R-CTK-161,QZ-LT-R-CTK-161\Navya,processing
+24:44.4,Info,robotaccount-unattended,Grafana,QZ-LT-R-CTK-161,QZ-LT-R-CTK-161\Navya,Executed
+24:44.4,Info,robotaccount-unattended,Grafana,QZ-LT-R-CTK-161,QZ-LT-R-CTK-161\Navya,End
+24:48.1,Info,robotaccount-unattended,Grafana,QZ-LT-R-CTK-161,QZ-LT-R-CTK-161\Navya,Grafana execution ended
