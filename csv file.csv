@@ -1,0 +1,77 @@
+﻿Time (absolute),Level,Robot name,Process,Hostname,Host Identity,Message
+2024-11-25 06:48:11.873,Info,robotaccount-unattended,Qualizeal.website_demo,QZ-LT-R-CTK-161,QZ-LT-R-CTK-161\Navya,Qualizeal.website_demo execution started
+2024-11-25 06:49:53.602,Error,robotaccount-unattended,Qualizeal.website_demo,QZ-LT-R-CTK-161,QZ-LT-R-CTK-161\Navya,Click 'Insights': Timeout reached.
+2024-11-25 06:49:55.911,Info,robotaccount-unattended,Qualizeal.website_demo,QZ-LT-R-CTK-161,QZ-LT-R-CTK-161\Navya,Qualizeal.website_demo execution ended
+2024-11-25 06:50:12.163,Info,robotaccount-unattended,Qualizeal.website_demo,QZ-LT-R-CTK-161,QZ-LT-R-CTK-161\Navya,Qualizeal.website_demo execution started
+2024-11-25 06:51:10.898,Error,robotaccount-unattended,Qualizeal.website_demo,QZ-LT-R-CTK-161,QZ-LT-R-CTK-161\Navya,Read Range Workbook: The workbook does not exist
+2024-11-25 06:51:11.403,Info,robotaccount-unattended,Qualizeal.website_demo,QZ-LT-R-CTK-161,QZ-LT-R-CTK-161\Navya,Qualizeal.website_demo execution ended
+2024-11-25 06:51:12.961,Info,robotaccount-unattended,Qualizeal.website_demo,QZ-LT-R-CTK-161,QZ-LT-R-CTK-161\Navya,Qualizeal.website_demo execution started
+2024-11-25 06:51:50.813,Error,robotaccount-unattended,Qualizeal.website_demo,QZ-LT-R-CTK-161,QZ-LT-R-CTK-161\Navya,Read Range Workbook: The workbook does not exist
+2024-11-25 06:51:51.284,Info,robotaccount-unattended,Qualizeal.website_demo,QZ-LT-R-CTK-161,QZ-LT-R-CTK-161\Navya,Qualizeal.website_demo execution ended
+2024-11-25 06:52:13.756,Info,robotaccount-unattended,Qualizeal.website_demo,QZ-LT-R-CTK-161,QZ-LT-R-CTK-161\Navya,Qualizeal.website_demo execution started
+2024-11-25 06:52:52.019,Error,robotaccount-unattended,Qualizeal.website_demo,QZ-LT-R-CTK-161,QZ-LT-R-CTK-161\Navya,Read Range Workbook: The workbook does not exist
+2024-11-25 06:52:52.905,Info,robotaccount-unattended,Qualizeal.website_demo,QZ-LT-R-CTK-161,QZ-LT-R-CTK-161\Navya,Qualizeal.website_demo execution ended
+2024-11-25 06:53:14.325,Info,robotaccount-unattended,Qualizeal.website_demo,QZ-LT-R-CTK-161,QZ-LT-R-CTK-161\Navya,Qualizeal.website_demo execution started
+2024-11-25 06:53:57.013,Error,robotaccount-unattended,Qualizeal.website_demo,QZ-LT-R-CTK-161,QZ-LT-R-CTK-161\Navya,"Get Text 'Latest': Multiple similar matches found.
+
+Could not uniquely identify the user-interface element for this action.
+Edit the element, run Validation, and add anchors in order to ensure the element is uniquely identified."
+2024-11-25 06:53:59.641,Info,robotaccount-unattended,Qualizeal.website_demo,QZ-LT-R-CTK-161,QZ-LT-R-CTK-161\Navya,Qualizeal.website_demo execution ended
+2024-11-25 07:03:36.696,Info,robotaccount-unattended,Qualizeal.website_demo,QZ-LT-R-CTK-161,QZ-LT-R-CTK-161\Navya,Qualizeal.website_demo execution started
+2024-11-25 07:04:18.437,Error,robotaccount-unattended,Qualizeal.website_demo,QZ-LT-R-CTK-161,QZ-LT-R-CTK-161\Navya,"Get Text 'Latest': Multiple similar matches found.
+
+Could not uniquely identify the user-interface element for this action.
+Edit the element, run Validation, and add anchors in order to ensure the element is uniquely identified."
+2024-11-25 07:04:20.629,Info,robotaccount-unattended,Qualizeal.website_demo,QZ-LT-R-CTK-161,QZ-LT-R-CTK-161\Navya,Qualizeal.website_demo execution ended
+2024-11-25 07:05:05.054,Info,robotaccount-unattended,Qualizeal.website_demo,QZ-LT-R-CTK-161,QZ-LT-R-CTK-161\Navya,Qualizeal.website_demo execution started
+2024-11-25 07:06:13.357,Error,robotaccount-unattended,Qualizeal.website_demo,QZ-LT-R-CTK-161,QZ-LT-R-CTK-161\Navya,"Get Text 'Latest': The UI element could not be located using the configured Fuzzy selector for Target or Anchor.
+
+ 'Anchor 1' search failed for selector:
+	<webctrl tag='H3' type='' class='latest-tag' aaname='Latest' check:innerText='Latest' />
+These are the closest selector matches found:
+	[50%] <webctrl type='' parentid='content' tag='H3' class='elementor-heading-title elementor-size-default' aaname='Ready to accelerate your business?' check:innerText='Ready to accelerate your business?' />
+"
+2024-11-25 07:06:15.912,Info,robotaccount-unattended,Qualizeal.website_demo,QZ-LT-R-CTK-161,QZ-LT-R-CTK-161\Navya,Qualizeal.website_demo execution ended
+2024-11-25 07:18:05.300,Info,robotaccount-unattended,cogmento_LoginAndLogout,QZ-LT-R-CTK-161,QZ-LT-R-CTK-161\Navya,cogmento_LoginAndLogout execution started
+2024-11-25 07:18:45.024,Error,robotaccount-unattended,cogmento_LoginAndLogout,QZ-LT-R-CTK-161,QZ-LT-R-CTK-161\Navya,"Click 'Log In': The UI element could not be located using the configured Fuzzy selector for Target or Anchor.
+
+ 'Target' search failed for selector:
+	<webctrl aaname='Log In' tag='A' type='' class='btn btn-primary btn-xs-2 btn-shadow btn-rect btn-icon btn-icon-left' check:innerText='LOG IN' />
+These are the closest selector matches found:
+	[81%] <webctrl aaname='Login' tag='A' type='' class='MuiButtonBase-root MuiButton-root MuiButton-outlined MuiButton-outlinedPrimary MuiButton-sizeLarge MuiButton-outlinedSizeLarge MuiButton-colorPrimary MuiButton-root MuiButton-outlined MuiButton-outlinedPrimary MuiButton-sizeLarge MuiButton-outlinedSizeLarge MuiButton-colorPrimary mui-1je003g' check:innerText='LOGIN' />
+	[58%] <webctrl aaname='Sign Up' type='' href='https://api.cogmento.com/register?lang=en' tag='A' class='MuiButtonBase-root MuiButton-root MuiButton-contained MuiButton-containedPrimary MuiButton-sizeLarge MuiButton-containedSizeLarge MuiButton-colorPrimary MuiButton-root MuiButton-contained MuiButton-containedPrimary MuiButton-sizeLarge MuiButton-containedSizeLarge MuiButton-colorPrimary mui-5gpgj4' check:innerText='SIGN UP' />
+	[58%] <webctrl aaname='Sign Up' tag='A' type='' class='MuiButtonBase-root MuiButton-root MuiButton-contained MuiButton-containedPrimary MuiButton-sizeLarge MuiButton-containedSizeLarge MuiButton-colorPrimary MuiButton-root MuiButton-contained MuiButton-containedPrimary MuiButton-sizeLarge MuiButton-containedSizeLarge MuiButton-colorPrimary mui-1cxo7uq' check:innerText='SIGN UP' />
+"
+2024-11-25 07:18:45.739,Info,robotaccount-unattended,cogmento_LoginAndLogout,QZ-LT-R-CTK-161,QZ-LT-R-CTK-161\Navya,cogmento_LoginAndLogout execution ended
+2024-11-25 07:19:08.579,Info,robotaccount-unattended,cogmento_LoginAndLogout,QZ-LT-R-CTK-161,QZ-LT-R-CTK-161\Navya,cogmento_LoginAndLogout execution started
+2024-11-25 07:19:47.297,Error,robotaccount-unattended,cogmento_LoginAndLogout,QZ-LT-R-CTK-161,QZ-LT-R-CTK-161\Navya,"Click 'Log In': The UI element could not be located using the configured Fuzzy selector for Target or Anchor.
+
+ 'Target' search failed for selector:
+	<webctrl aaname='Log In' tag='A' type='' class='btn btn-primary btn-xs-2 btn-shadow btn-rect btn-icon btn-icon-left' check:innerText='LOG IN' />
+These are the closest selector matches found:
+	[81%] <webctrl aaname='Login' tag='A' type='' class='MuiButtonBase-root MuiButton-root MuiButton-outlined MuiButton-outlinedPrimary MuiButton-sizeLarge MuiButton-outlinedSizeLarge MuiButton-colorPrimary MuiButton-root MuiButton-outlined MuiButton-outlinedPrimary MuiButton-sizeLarge MuiButton-outlinedSizeLarge MuiButton-colorPrimary mui-1je003g' check:innerText='LOGIN' />
+	[58%] <webctrl aaname='Sign Up' type='' href='https://api.cogmento.com/register?lang=en' tag='A' class='MuiButtonBase-root MuiButton-root MuiButton-contained MuiButton-containedPrimary MuiButton-sizeLarge MuiButton-containedSizeLarge MuiButton-colorPrimary MuiButton-root MuiButton-contained MuiButton-containedPrimary MuiButton-sizeLarge MuiButton-containedSizeLarge MuiButton-colorPrimary mui-5gpgj4' check:innerText='SIGN UP' />
+	[58%] <webctrl aaname='Sign Up' tag='A' type='' class='MuiButtonBase-root MuiButton-root MuiButton-contained MuiButton-containedPrimary MuiButton-sizeLarge MuiButton-containedSizeLarge MuiButton-colorPrimary MuiButton-root MuiButton-contained MuiButton-containedPrimary MuiButton-sizeLarge MuiButton-containedSizeLarge MuiButton-colorPrimary mui-1cxo7uq' check:innerText='SIGN UP' />
+"
+2024-11-25 07:19:48.115,Info,robotaccount-unattended,cogmento_LoginAndLogout,QZ-LT-R-CTK-161,QZ-LT-R-CTK-161\Navya,cogmento_LoginAndLogout execution ended
+2024-11-25 07:20:12.746,Info,robotaccount-unattended,Qz,QZ-LT-R-CTK-161,QZ-LT-R-CTK-161\Navya,Qz execution started
+2024-11-25 07:21:02.051,Error,robotaccount-unattended,Qz,QZ-LT-R-CTK-161,QZ-LT-R-CTK-161\Navya,Read Range Workbook: The workbook does not exist
+2024-11-25 07:21:02.684,Info,robotaccount-unattended,Qz,QZ-LT-R-CTK-161,QZ-LT-R-CTK-161\Navya,Qz execution ended
+2024-11-25 08:25:38.950,Info,robotaccount-unattended,Grafana,QZ-LT-R-CTK-161,QZ-LT-R-CTK-161\Navya,Grafana execution started
+2024-11-25 08:25:38.998,Info,robotaccount-unattended,Grafana,QZ-LT-R-CTK-161,QZ-LT-R-CTK-161\Navya,Bot Started
+2024-11-25 08:25:39.000,Info,robotaccount-unattended,Grafana,QZ-LT-R-CTK-161,QZ-LT-R-CTK-161\Navya,processing
+2024-11-25 08:25:41.262,Info,robotaccount-unattended,Grafana,QZ-LT-R-CTK-161,QZ-LT-R-CTK-161\Navya,Executed
+2024-11-25 08:25:41.263,Info,robotaccount-unattended,Grafana,QZ-LT-R-CTK-161,QZ-LT-R-CTK-161\Navya,End
+2024-11-25 08:25:44.239,Info,robotaccount-unattended,Grafana,QZ-LT-R-CTK-161,QZ-LT-R-CTK-161\Navya,Grafana execution ended
+2024-11-25 08:26:16.536,Info,robotaccount-unattended,Grafana,QZ-LT-R-CTK-161,QZ-LT-R-CTK-161\Navya,Grafana execution started
+2024-11-25 08:26:16.573,Info,robotaccount-unattended,Grafana,QZ-LT-R-CTK-161,QZ-LT-R-CTK-161\Navya,Bot Started
+2024-11-25 08:26:16.575,Info,robotaccount-unattended,Grafana,QZ-LT-R-CTK-161,QZ-LT-R-CTK-161\Navya,processing
+2024-11-25 08:26:19.797,Info,robotaccount-unattended,Grafana,QZ-LT-R-CTK-161,QZ-LT-R-CTK-161\Navya,Executed
+2024-11-25 08:26:19.798,Info,robotaccount-unattended,Grafana,QZ-LT-R-CTK-161,QZ-LT-R-CTK-161\Navya,End
+2024-11-25 08:26:22.749,Info,robotaccount-unattended,Grafana,QZ-LT-R-CTK-161,QZ-LT-R-CTK-161\Navya,Grafana execution ended
+2024-11-26 05:23:55.624,Info,robotaccount-unattended,Grafana,QZ-LT-R-CTK-161,QZ-LT-R-CTK-161\Navya,Grafana execution started
+2024-11-26 05:23:55.650,Info,robotaccount-unattended,Grafana,QZ-LT-R-CTK-161,QZ-LT-R-CTK-161\Navya,Bot Started
+2024-11-26 05:23:55.652,Info,robotaccount-unattended,Grafana,QZ-LT-R-CTK-161,QZ-LT-R-CTK-161\Navya,processing
+2024-11-26 05:24:44.370,Info,robotaccount-unattended,Grafana,QZ-LT-R-CTK-161,QZ-LT-R-CTK-161\Navya,Executed
+2024-11-26 05:24:44.373,Info,robotaccount-unattended,Grafana,QZ-LT-R-CTK-161,QZ-LT-R-CTK-161\Navya,End
+2024-11-26 05:24:48.053,Info,robotaccount-unattended,Grafana,QZ-LT-R-CTK-161,QZ-LT-R-CTK-161\Navya,Grafana execution ended
